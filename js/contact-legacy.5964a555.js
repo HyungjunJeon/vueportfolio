@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueportfolio"]=self["webpackChunkvueportfolio"]||[]).push([[631],{9542:function(n,t,e){e.r(t),e.d(t,{default:function(){return s}});var o=e(6252),u=(0,o._)("h1",null,"This is an Contact page",-1),r=[u];function a(n,t,e,u,a,c){return(0,o.wg)(),(0,o.iD)("div",null,r)}var c={name:"Contact",components:{}},i=e(3744);const l=(0,i.Z)(c,[["render",a]]);var s=l}}]);
+//# sourceMappingURL=contact-legacy.5964a555.js.map

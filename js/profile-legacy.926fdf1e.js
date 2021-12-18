@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueportfolio"]=self["webpackChunkvueportfolio"]||[]).push([[845],{2875:function(n,e,r){r.r(e),r.d(e,{default:function(){return s}});var o=r(6252),u=(0,o._)("h1",null,"This is an Profile page",-1),i=[u];function t(n,e,r,u,t,l){return(0,o.wg)(),(0,o.iD)("div",null,i)}var l={name:"Profile",components:{}},f=r(3744);const a=(0,f.Z)(l,[["render",t]]);var s=a}}]);
+//# sourceMappingURL=profile-legacy.926fdf1e.js.map
