@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvueportfolio"]=self["webpackChunkvueportfolio"]||[]).push([[176],{6142:function(n,e,r){r.r(e),r.d(e,{default:function(){return l}});var o=r(6252),t=(0,o._)("h1",null,"This is an Projects page",-1),u=[t];function s(n,e,r,t,s,c){return(0,o.wg)(),(0,o.iD)("div",null,u)}var c={name:"Projects",components:{}},i=r(3744);const a=(0,i.Z)(c,[["render",s]]);var l=a}}]);
-//# sourceMappingURL=projects-legacy.ef13854a.js.map
